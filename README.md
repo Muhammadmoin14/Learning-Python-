@@ -1,6 +1,6 @@
 # Learning Python
 
-Welcome to my Python learning journey! This repository documents my progress as I learn Python through the tutorials provided by [Code with Harry](https://www.youtube.com/user/CodeWithHarry).
+Welcome to my Python learning journey! This repository documents my progress as I learn Python through the tutorials provided by [Code with Harry](https://www.youtube.com/CodeWithHarry).
 
 ## About This Challenge
 
