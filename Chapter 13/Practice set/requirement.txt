@@ -1,0 +1,2 @@
+pyjokes==0.8.3
+randfacts==0.21.0
